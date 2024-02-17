@@ -1,4 +1,4 @@
-const { CalculatorService } = require("../src/services/calculatorService");
+const CalculatorService = require("../src/services/calculatorService");
 
 describe("CalculatorService", () => {
   let calculatorService;
